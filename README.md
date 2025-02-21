@@ -1,4 +1,4 @@
-#API PARA REDE SOCIAL
+API PARA REDE SOCIAL
 
 Foi feita uma api para postagem de publicaçoes em uma rede social
 
